@@ -20,7 +20,7 @@ Cloner le projet :
 bash
 Copier
 Modifier
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
+git clone https://github.com/rizu-SM/Gestion-Cabinet-Medical
 cd nom-du-repo
 Compiler et exécuter :
 
